@@ -37,7 +37,7 @@ end12 = "r"
 puts end1 + end2 + end3 + end4 + end5 + end6 + end7 + end8 + end9 + end10 + end11 + end12
 puts end1 + end2 + end3 + end4 + end5 + end6 + end7 + end8 + end9 + end10 + end11 + end12
 
-# prints out concatination of variable values
+# prints out concatenation of variable values
 # print vs puts = both print out a string, but puts adds a new line after the execution
 # Above with print will return CheeseBurgerCheeseBurger
 # Above with puts will return 
