@@ -1,4 +1,4 @@
-puts "Marry had a little lamb."
+puts "Mary had a little lamb."
 # string is printed out
 puts "Its fleece was white as #{'snow'}."
 # #{} literal is evaluated into the string and then the string is printed out
