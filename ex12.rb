@@ -15,7 +15,7 @@
 
 print "Please give me some amount of money and I will return 10% of it. What amount of money would you like to give: "
 money = gets.chomp.to_f
-tenPercent = money * 0.1
+tenPercent = (money * 0.1).round(2)
 
 puts "You gave #{money}"
 puts "Here is your change: #{tenPercent}"
