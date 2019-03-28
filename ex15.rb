@@ -12,7 +12,8 @@ puts "Here's your file #{file_to_read}: "
 print txt.read
 # prints out the file that was opened on line 4
 
-close(file_to_read)
+require "pry"; binding.pry
+txt.close
 
 # print "Type the filename again: "
 # #prints a line asks for the original file name again and accepts text
@@ -26,3 +27,4 @@ close(file_to_read)
 # #prints out the file that the user provided on line 14
 #
 # close(file_again)
+txt.each
