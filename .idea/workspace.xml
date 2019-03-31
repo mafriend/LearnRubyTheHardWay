@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f692c9d-4866-45a6-a932-fba2f03ca6f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex15.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex15.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex17.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex17.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/ex15.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -105,7 +101,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="769" />
+    <option name="x" value="706" />
     <option name="y" value="23" />
     <option name="width" value="911" />
     <option name="height" value="947" />
@@ -161,15 +157,15 @@
       <updated>1553302469316</updated>
       <workItem from="1553302480189" duration="3357000" />
       <workItem from="1553548148172" duration="3906000" />
-      <workItem from="1553787369120" duration="3510000" />
+      <workItem from="1553787369120" duration="3561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10773000" />
+    <option name="totallyTimeSpent" value="10824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="769" y="23" width="911" height="947" extended-state="0" />
+    <frame x="706" y="23" width="911" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17951669" />
@@ -258,7 +254,7 @@
     <entry file="file://$PROJECT_DIR$/ex15.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

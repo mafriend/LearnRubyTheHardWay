@@ -27,4 +27,3 @@ txt.close
 # #prints out the file that the user provided on line 14
 #
 # close(file_again)
-txt.each
