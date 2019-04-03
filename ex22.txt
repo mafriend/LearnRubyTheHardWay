@@ -1,0 +1,45 @@
+puts = prints out text and adds a new line after text
+"" (double quotes) = used to create strings
+# = used to comment out lines of code or create comments within a code
+'' (single quotes) = can be used to create strings
+#{} = operator that performs expression substitution inside a string
+print = prints out text with no new line added
++ = performs addition of two integers or can be used for concatenating strings together
+- = performs subtraction of two integers or can be used to denote a negative integer
+* = performs multiplication of two integers
+/ = performs division of two integers
+% = performs division of two integers and returns the remainder of the result
+= (single equals) = used to assign a value to a variable
+>= = boolean equation that determines if something is greater than or equal to and returns true / false
+<= = boolean equation that determines if something is less than or equal to and returns true / false
+%{} = interpolation operator used for formatting strings
+true = boolean value
+false = boolean value
+\n = line break, used within a string
+%q{} = used to create a block string
+\t = tabs in text within a string
+\r = sets head back to the start of the line
+\" = escapes a double quote so you can use double quotes within a string between double quotes
+""" (triple quotes) = creates block text
+\a = alert?
+\f = progressively tabs in (no longer used)
+\ = backslash
+gets = captures an input (string)
+chomp = removes any new lines at the end of a string, traditionally used with "gets."
+round = returns numbers rounded up to the nth degree (takes argument)
+.to_f = returns the result of a string-ified number as a floating integer. non integers are removed and if the string starts with not number, it returns 0.0
+.to_i = converts a string-ified number into an integer
+ARGV = holds argument values given through the command line
+$stdin = standard input, used when users interact with the command line
+open = opens a file that is given as an argument
+read = returns the contents of the file
+close = closes the file
+truncate = changes the file size to bytes
+write = adds data to a file
+length = returns length of a string
+exist = returns boolean value to determine if something exists or not
+def ... end = creates a function
+seek = moves head to specified location
++= = short hand for x = x + w (x+=w)
+
+
