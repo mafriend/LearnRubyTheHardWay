@@ -1,0 +1,17 @@
+https://github.com/feministy/katyperry.io/tree/master/app/helpers
+
+Description of ruby file: https://github.com/feministy/katyperry.io/blob/master/app/helpers/api_v1_helpers.rb
+* what does a module do here? imports? helpers?
+* four functions defined:
+1. gets the first word
+2. gets multiple words?
+* what does the "Word." method do?
+* What does .pluck do?
+-  I think this function takes an argument (maybe a string), puts the words in the string in a random order, and then stores one of the words.
+3. gets one sentence?
+* why does it set excuse to nil immediately rather than taking in just a variable?
+* wait does it just set excuse to nil everytime the function is called?
+* Then in the function gets the first sentence with a nil excuse?
+4. Gets multiple sentences (similar to the second function)
+* Performs logic based off of the boolean value of the excuse variable
+* similar to the second function, it takes two arguments (one variable, and one variable that is nil), puts the sentences in a random order and then stores the sentence it found?
